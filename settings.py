@@ -1,2 +1,2 @@
-VALID_EMAIL = 'user2@gmail.com'
-VALID_PASS = '123zxcv'
+VALID_EMAIL = 'Your EMAIL'
+VALID_PASS = 'Your PASSWORD '
